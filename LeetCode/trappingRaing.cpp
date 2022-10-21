@@ -14,7 +14,6 @@ public:
        int len = height.size();
        int left=0;
        int right=len-1;
-        
        int Max1=0;
        int Max2=0;
 
